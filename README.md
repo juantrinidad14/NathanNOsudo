@@ -1,5 +1,5 @@
 # <h1 align="center"> Hello Friend, I'm [Juan!](https://code-blooded-dev.surge.sh)  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="www.linkedin.com/in/juan-trinidad/">  <img href="www.linkedin.com/in/juan-trinidad/" src="https://raw.githubusercontent.com/Juantrinidad14/Juantrinidad14/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
+## <h2 align="center"><a href="https://www.linkedin.com/in/Juantrindiad14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
 # <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{Juantrinidad14}/count.svg) Visitors since October 8th! Thank you for stopping by!
  
 
