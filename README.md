@@ -11,7 +11,7 @@
 
 - 👯🔭 I’m looking to collaborate on an awesome app to better the world!
 
-- ⚡ For Fun: I love to play tenis,hiking, and working-out.
+- ⚡ For Fun: I love to play tenis,hiking, and working-out..
 
 `
 # <h2 align="center"> [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=JuanTrinidad14&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Juantrinidad14&theme=blue-green)
