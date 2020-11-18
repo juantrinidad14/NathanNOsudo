@@ -1,47 +1,20 @@
-# <h1 align="center"> Hello Friend, I'm [Nathan!](https://code-blooded-dev.surge.sh)  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="https://linkedin.com/in/nathanorris/">  <img href="https://linkedin.com/in/nathanorris" src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{NathanNOSudo}/count.svg) Visitors since October 8th! Thank you for stopping by!
-  
-<hr style="height:2px;border-width:0;color:gray;background-color:red">
-<p><em>Developer in Residence at <a href="https://www.DigitialCrafts.com">DigitalCrafts</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# <h1 align="center"> Hello Friend, I'm [Juan!](https://code-blooded-dev.surge.sh)  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+## <h2 align="center"> <img src="https://raw.githubusercontent.com/NathanNoSudo/NathanNoSudo/master/svg/pronouns/hehim.svg" ><a href="www.linkedin.com/in/juan-trinidad/">  <img href="www.linkedin.com/in/juan-trinidad/" src="https://raw.githubusercontent.com/Juantrinidad14/Juantrinidad14/master/svg/social/linkedin.svg" alt="linkedin" style="float:right; align:right; margin:6px 4px"></a> 
+# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{Juantrinidad14}/count.svg) Visitors since October 8th! Thank you for stopping by!
+ 
 
 ### Hi 🙋‍♂️,
-### I'm a Full-Stack Developer who attended DigitalCrafts of Houston and am currently A developer in residence at DigitalCrafts. Mr. Azam was my awesome instructor, you may know him from his courses on Udemy! I have a praticular interest in all things code and am dedicated to being a life long learner learning the most cutting edge and in demand skills and stacks!
+### I'm a Full-Stack Developer who attended DigitalCrafts Online Immersive Program and am currently A developer in residence at DigitalCrafts.
 <br />
 
-- 🌱 I am dedicated to being a Life-Long Learner, and enjoy learning new things. 
+- 🌱 I am hard-working individual who loves coding challenges on a daly basis. 
 
 - 👯🔭 I’m looking to collaborate on an awesome app to better the world!
 
-- ⚡ For Fun: I love camping, building android roms, my cats, fishing, and para-surfing.
+- ⚡ For Fun: I love to play tenis,hiking, and working-out.
 
-```javascript
-const nathan = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "HTML5", "CSS3", "Java", "php"],
-    askMeAbout: ["Web Development", "Tech", "App Development", "Linux", "Cyber-Security"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["Materialize", "Vuetify", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
-        },
-        devOps: ["Google Play Developer", "AWS", "Docker🐳", "Google-Cloud-Platform"],
-        databases: ["PostgreSQL", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "Selenium", "Heroku","Netlify", "Surge.sh"]
-    },
-    architecture: ["Progressive web applications", "Serverless Architecture", "Mobile Apps", "Single page applications"],
-    currentProject: "I am currently working on a learning-managment/social-media app for a local school district",
-    funFact: "The reigning hide and seek champion continues to be... ';' "
-};
-```
-
-# <h2 align="center"> [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=nathannosudo&theme=blue-green)
+`
+# <h2 align="center"> [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=JuanTrinidad14&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Juantrinidad14&theme=blue-green)
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
 
@@ -103,14 +76,11 @@ const nathan = {
 
 
 
-
   
 
 </p>
 
 ### - Blogs 🌱
-
-<p>Under construction with many new features!</p>
 
 
 ***********************************
