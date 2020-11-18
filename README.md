@@ -4,7 +4,7 @@
  
 
 ### Hi 🙋‍♂️,
-### I'm a Full-Stack Developer who attended DigitalCrafts Online Immersive Program and am currently A developer in residence at DigitalCrafts.
+### I'm a Full-Stack Developer who attends DigitalCrafts Online Immersive Program.
 <br />
 
 - 🌱 I am hard-working individual who loves coding challenges on a daly basis. 
