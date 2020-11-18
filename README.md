@@ -1,6 +1,6 @@
 # <h1 align="center"> Hello Friend, I'm [Juan!](https://code-blooded-dev.surge.sh)  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 ## <h2 align="center"><a href="https://www.linkedin.com/in/Juantrindiad14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin username" height="30" width="40" /></a>
-# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{Juantrinidad14}/count.svg) Visitors since October 8th! Thank you for stopping by!
+# <h2 align="center">![Visitor Count](https://profile-counter.glitch.me/{Juantrinidad14}/count.svg) Thank you for stopping by!
  
 
 ### Hi 🙋‍♂️,
